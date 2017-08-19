@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 public class ActMainActivity extends AppCompatActivity {
 
+    //Desarrollado pór jefry guttierrez maguiña
     EditText editNombres,editApellidos,editEdad;
     CheckBox chkDocAutorizacion,chkDni;
     RadioGroup rdbtnBoleto;
